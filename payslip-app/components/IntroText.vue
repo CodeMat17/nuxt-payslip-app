@@ -1,6 +1,8 @@
 <template>
   <div justtify="center" align="center">
-    <h1 class="intro-title">Your payslips - <strong>ANYTIME, ANYDAY</strong></h1>
+    <h1 class="intro-title">
+      Your payslips - <strong>ANYTIME, ANYDAY</strong>
+    </h1>
     <br />
     <v-alert elevation="4" border="left">
       <h1 class="subtitle-2">

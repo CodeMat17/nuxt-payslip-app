@@ -1,5 +1,7 @@
 # payslip-app
 
+## A payslip distribution app
+
 ## Build Setup
 
 ```bash
