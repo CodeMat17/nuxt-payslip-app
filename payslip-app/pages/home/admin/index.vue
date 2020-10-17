@@ -89,6 +89,7 @@ export default {
   mounted() {},
   methods: {
     submit() {
+      
       firebase
         .firestore()
         .collection("staff")
@@ -101,6 +102,7 @@ export default {
           isCompleted: false,
         });
     },
+    
   },
 };
 </script>
