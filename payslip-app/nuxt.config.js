@@ -64,7 +64,7 @@ export default {
             start_url: ' /',
             theme_color: '#000',
             icons: [{
-                src: './static/icon.png',
+                src: './static/maskable_icon.png',
                 sizes: '196x196',
                 type: 'image/png',
                 purpose: 'any maskable'
