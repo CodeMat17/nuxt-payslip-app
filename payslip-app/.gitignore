@@ -85,6 +85,7 @@ sw.*
 
 # API Keys
 development.*
+production.*
 
 # macOS
 .DS_Store

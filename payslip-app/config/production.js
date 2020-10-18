@@ -1,12 +1,12 @@
 module.exports = {
     firebaseConfig: {
-        apiKey: API_KEY,
-        authDomain: AUTH_DOMAIN,
-        databaseURL: DATABASE_URL,
-        projectId: PROJECT_ID,
-        storageBucket: STORAGE_BUCKET,
-        messagingSenderId: MESSAGING_SENDER_ID,
-        appId: APP_ID
+        apiKey: "AIzaSyCuJbODrNHhuhsgZ2nOaXEHlQg5klt4Eoo",
+        authDomain: "nuxt-auth-b84d5.firebaseapp.com",
+        databaseURL: "https://nuxt-auth-b84d5.firebaseio.com",
+        projectId: "nuxt-auth-b84d5",
+        storageBucket: "nuxt-auth-b84d5.appspot.com",
+        messagingSenderId: "826039605774",
+        appId: "1:826039605774:web:662675898176627eb13a5f"
     }
 
 }
