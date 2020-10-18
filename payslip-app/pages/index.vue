@@ -2,11 +2,11 @@
   <v-container>
     <v-row>
       <v-col class="skew">
-        <v-row justify="center" align="center" class="mt-2 content">
+        <v-row justify="center" align="center" class="content">
           <v-col justify="center" align="center">
             <IntroImage />
           </v-col>
-          <v-col md='6' justify="center" align="center">
+          <v-col md="6" justify="center" align="center">
             <IntroText />
           </v-col>
         </v-row>
@@ -40,7 +40,7 @@ export default {
 </script>
 
 <style scoped>
-.intro {
+/* .intro {
   background-image: url("~assets/images/payslip-logo.png");
   height: 320px;
   width: 320px;
@@ -50,6 +50,17 @@ export default {
   background-position: center;
   background-size: contain;
 }
+
+.intro2 {
+  background-image: url("~assets/images/payslip-logo.png");
+  height: 220px;
+  width: 220px;
+  position: relative;
+  margin-right: 20px;
+  box-sizing: border-box;
+  background-position: center;
+  background-size: contain;
+} */
 
 .skew {
   transform: skew(0deg, -10deg);
