@@ -12,7 +12,7 @@
       <h1 class="subtitle-2">ONLY.</h1>
     </v-alert>
     <nuxt-link to="/signin">
-      <v-btn block outlined color="pink" dark class="mt-1">
+      <v-btn outlined color="pink" dark class="mt-1">
         get started
         <v-icon class="ml-4"> mdi-account-key-outline </v-icon>
       </v-btn>
