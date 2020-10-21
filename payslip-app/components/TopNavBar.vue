@@ -87,7 +87,8 @@ export default {
     async signOut() {
       await auth.signOut();
       await Cookie.remove("access_token");
-      location.href = "/signin";
+      // location.href = "/signin";
+      this.$router.push("/signin");
     },
   },
   computed: {
